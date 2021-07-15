@@ -1,13 +1,18 @@
-6fae32f15628b6439fac3faedfdafd58 *DESCRIPTION
+577344a537a8c4cf3e2bd02a5175a061 *DESCRIPTION
 4ddd17b0c9241d7b24a4960caefe8e40 *LICENSE
 850bf89628b7bfb99b950bb0a3f6cc76 *NAMESPACE
 80ec16a30417e982d950f16cfb5468fd *NEWS.md
-3b27a5e9a712a1fa15c9a880d895f40d *R/provExplainR.R
+ebe1d94104369d5053de09cd5b263838 *R/provExplainR.R
 cdb0af32887d9fad7ca9ae8bd7955e9d *inst/testdata/prov_HF-data/prov.json
 eb8748c86ea09b0f9945a3792dcef1f2 *inst/testdata/prov_HF-data/scripts/HF-data.R
 433a443f99349ad691078696e6b0f317 *inst/testdata/prov_HF-data_2019-06-10T15.32.25EDT/prov.json
 eb8748c86ea09b0f9945a3792dcef1f2 *inst/testdata/prov_HF-data_2019-06-10T15.32.25EDT/scripts/HF-data.R
 7acfcfd29e18d0614ab6d048c745282e *inst/testdata/prov_HF-data_no-json/scripts/HF-data.R
+8c298794f13b995a6ccd265a4ebfab1b *inst/testdata/prov_factorial_2021-03-31T12.01.36EDT/prov-explain.txt
+db901ba2b1241f55a6079400972ad6be *inst/testdata/prov_factorial_2021-03-31T12.01.36EDT/prov.json
+c6b976a5ba662833323d56543817671b *inst/testdata/prov_factorial_2021-03-31T12.01.36EDT/scripts/factorial.R
+8636e77299fd96f535ceea1acdc4d490 *inst/testdata/prov_factorial_2021-04-26T16.34.16EDT/prov.json
+426ecf01ebab431cdcbb000a20c3e273 *inst/testdata/prov_factorial_2021-04-26T16.34.16EDT/scripts/factorial.R
 e987d21611d3699c5be1102cefb4d3c7 *inst/testdata/prov_test1/prov.json
 7be48a56beba80e814c1f57887b3dba1 *inst/testdata/prov_test1/scripts/test1.R
 d24ab89249763832d467b7d36ce7e6db *inst/testdata/prov_test1/scripts/test2.R
@@ -18,5 +23,5 @@ e3fed8d5880d0abaabd38eacc2e37c34 *tests/testthat/testEnvironmentChange.R
 8f08e24bd16a622935914e967adb5664 *tests/testthat/testLibraryChange.R
 46706eed2aee1fa8193b39bcdca4d8e4 *tests/testthat/testProvExplain.R
 532cc134e9ff0b239e83104c2bbe863d *tests/testthat/testProvToolChange.R
-3795a63a90324b0fd75eefd8dddb9172 *tests/testthat/testScriptChange.R
+0922598f1dee3332961e46ecbfece0b7 *tests/testthat/testScriptChange.R
 5c8cdae887ec11f29112b9d4027c2882 *tests/testthat/testSetUp-CornerCases.R

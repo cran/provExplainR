@@ -1,7 +1,7 @@
 Package: provExplainR
 Title: Compare Provenance Collections to Explain Changed Script Outputs
-Version: 1.0
-Date: 2020-10-09
+Version: 1.1
+Date: 2021-07-15
 Authors@R: c( person("Barbara", "Lerner", role = "cre",
                       email = "blerner@mtholyoke.edu"),
               person("Emery", "Boose", role = "aut",
@@ -27,17 +27,16 @@ Description:
     Provenance in R, Informatics, <doi:10.3390/informatics5010012>.
 License: GPL-3 | file LICENSE
 Encoding: UTF-8
-LazyData: true
 Imports: dplyr, provParseR (>= 0.1.2), diffobj, digest, stringr
 Suggests: testthat
 URL: https://github.com/End-to-end-provenance
 BugReports: https://github.com/End-to-end-provenance/provExplainR/issues
-RoxygenNote: 7.1.0
+RoxygenNote: 7.1.1
 NeedsCompilation: no
-Packaged: 2020-10-09 20:08:23 UTC; blerner
+Packaged: 2021-07-15 19:48:56 UTC; blerner
 Author: Barbara Lerner [cre],
   Emery Boose [aut],
   Khanh Ngo [aut]
 Maintainer: Barbara Lerner <blerner@mtholyoke.edu>
 Repository: CRAN
-Date/Publication: 2020-10-17 12:30:02 UTC
+Date/Publication: 2021-07-15 20:00:02 UTC
